@@ -1,4 +1,4 @@
-npm create vite project-name
+npm create vite 10reduxTodo
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
